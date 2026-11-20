@@ -1,6 +1,13 @@
 # PI-RM-Celulares
 Projeto Integrador de Business Intelligence  e Modelagem de Dados desenvolvido para a empresa R&amp;M Celulares.
 PI-RM-Celulares
+
+Alunos: Paloma Maria Da Silva
+Maria Eduarda Ferreira de Matos
+Letícia Cristina Pereira
+David Lopes Garcia Furlan 
+
+
 │
 ├── README.md
 │

@@ -1,1 +1,1 @@
-Arquivos da Documnetação.
+Arquivos da Documentação.

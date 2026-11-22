@@ -1,1 +1,1 @@
-Arquivos da imagem.
+Arquivos de imagem.

@@ -1,0 +1,11 @@
+﻿aparelho_id;cliente_id;marca;modelo;identificacao_modelo;ano_modelo
+1;1;Samsung;Galaxy A32;SM-A325;2021
+2;2;Motorola;Moto G60;XT2135;2021
+3;3;Apple;iPhone 11;A2111;2019
+4;4;Xiaomi;Redmi Note 10;M2101K7;2021
+5;5;Samsung;Galaxy A12;SM-A125;2020
+6;6;Motorola;Moto G22;XT2231;2022
+7;7;Apple;iPhone 12;A2172;2020
+8;8;Xiaomi;Redmi 9;M2004J19;2020
+9;9;Samsung;Galaxy S20 FE;SM-G780;2020
+10;10;Motorola;Moto G9 Play;XT2083;2020

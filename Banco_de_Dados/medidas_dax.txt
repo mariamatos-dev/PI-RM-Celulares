@@ -1,0 +1,27 @@
+-- MEDIDAS DAX SUGERIDAS
+Receita de Vendas =
+SUMX ( itens_venda, itens_venda[quantidade] * itens_venda[preco_unitario] )
+
+Receita de Serviços =
+CALCULATE (
+    SUMX ( itens_ordem_servico, itens_ordem_servico[quantidade] * itens_ordem_servico[valor_mao_obra] ),
+    ordem_servico[status] = "Concluída"
+)
+
+Faturamento Total = [Receita de Vendas] + [Receita de Serviços]
+
+Quantidade de Ordens = DISTINCTCOUNT ( ordem_servico[ordem_id] )
+
+Ordens em Aberto =
+CALCULATE (
+    DISTINCTCOUNT ( ordem_servico[ordem_id] ),
+    ordem_servico[status] <> "Concluída"
+)
+
+Ticket Médio de Venda =
+DIVIDE ( [Receita de Vendas], DISTINCTCOUNT ( venda[venda_id] ), 0 )
+
+Unidades Vendidas = SUM ( itens_venda[quantidade] )
+
+Produtos em Estoque Crítico =
+COUNTROWS ( FILTER ( produto, produto[estoque_atual] <= produto[estoque_minimo] ) )

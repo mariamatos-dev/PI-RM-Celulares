@@ -1,0 +1,11 @@
+﻿cliente_id;nome;telefone;email;cidade
+1;Ana Souza;(19) 99111-1001;ana@example.com;Vargem Grande do Sul
+2;Bruno Lima;(19) 99111-1002;bruno@example.com;Vargem Grande do Sul
+3;Carla Mendes;(19) 99111-1003;carla@example.com;São João da Boa Vista
+4;Diego Alves;(19) 99111-1004;diego@example.com;Vargem Grande do Sul
+5;Elisa Rocha;(19) 99111-1005;elisa@example.com;Casa Branca
+6;Felipe Costa;(19) 99111-1006;felipe@example.com;Vargem Grande do Sul
+7;Giovana Reis;(19) 99111-1007;giovana@example.com;São João da Boa Vista
+8;Henrique Melo;(19) 99111-1008;henrique@example.com;Vargem Grande do Sul
+9;Isabela Nunes;(19) 99111-1009;isabela@example.com;Casa Branca
+10;João Prado;(19) 99111-1010;joao@example.com;Vargem Grande do Sul

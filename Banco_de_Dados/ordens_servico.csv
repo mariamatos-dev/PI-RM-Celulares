@@ -1,0 +1,16 @@
+﻿ordem_id;cliente_id;aparelho_id;tecnico_id;data_abertura;data_conclusao;status;defeito_relatado
+1;1;1;1;2026-10-02;2026-10-04;Concluída;Tela trincada
+2;2;2;2;2026-10-03;2026-10-05;Concluída;Bateria com baixa autonomia
+3;3;3;1;2026-10-05;2026-10-07;Concluída;Não carrega
+4;4;4;2;2026-10-08;;Em andamento;Falha intermitente
+5;5;5;1;2026-10-10;2026-10-11;Concluída;Aparelho lento
+6;6;6;2;2026-10-12;;Aguardando peça;Bateria estufada
+7;7;7;1;2026-10-15;2026-10-18;Concluída;Tela danificada
+8;8;8;2;2026-10-17;2026-10-18;Concluída;Conector com mau contato
+9;9;9;1;2026-10-20;;Em andamento;Diagnóstico solicitado
+10;10;10;2;2026-10-22;2026-10-24;Concluída;Não liga
+11;1;1;2;2026-11-01;2026-11-02;Concluída;Troca de conector
+12;2;2;1;2026-11-03;;Aguardando aprovação;Tela danificada
+13;3;3;2;2026-11-05;2026-11-06;Concluída;Limpeza interna
+14;4;4;1;2026-11-07;;Em andamento;Falha no carregamento
+15;5;5;2;2026-11-09;2026-11-10;Concluída;Troca de bateria

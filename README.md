@@ -3,8 +3,11 @@ Projeto Integrador de Business Intelligence  e Modelagem de Dados desenvolvido p
 PI-RM-Celulares
 
 Alunos: Paloma Maria Da Silva RA:
+
 Maria Eduarda Ferreira de Matos RA: 26001460
+
 Letícia Cristina Pereira RA:
+
 David Lopes Garcia Furlan RA: 
 
 
